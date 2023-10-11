@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "cssTheme": "Gitsidian",
+  "theme": "moonstone",
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "alignment"
+  ]
+}

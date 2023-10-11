@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "80444ebfaa800721",
+    "type": "split",
+    "children": [
+      {
+        "id": "eebff4b9561615d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2520a7944ad9f58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "embed-library/LWIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2697f8236e7bd23",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3d46c9206b7184d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "853a99d9b2069ea6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a1021cb814317c2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "00fdf582804d2552",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 296.5
+  },
+  "right": {
+    "id": "5dbc9d62fd71aa45",
+    "type": "split",
+    "children": [
+      {
+        "id": "a917d82c59e3c498",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7a3293234043ad3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "embed-library/LWIP.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8db88fec7227343f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "embed-library/LWIP.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "93e6c52ee24a03e7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aee885233c2e8056",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "embed-library/LWIP.md"
+              }
+            }
+          },
+          {
+            "id": "db1c32ab18f2243a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "e2520a7944ad9f58",
+  "lastOpenFiles": [
+    "embed-library/assets/Pasted image 20231010164446.png",
+    "embed-library/assets/Pasted image 20231010164102.png",
+    "embed-library/assets/Pasted image 20231010164059.png",
+    "embed-library/assets/Pasted image 20231010163253.png",
+    "embed-library/assets/Pasted image 20231010162813.png",
+    "embed-library/assets/Pasted image 20231010162743.png",
+    "embed-library/assets/Pasted image 20231010162623.png",
+    "embed-library/FATFS.md",
+    "embed-library/rtthread/FAL.md",
+    "embed-library/rtthread/DFS.md",
+    "embed-library/LWIP.md",
+    "embed-library/时钟溢出.md",
+    "embed-library/ARM启动服务过程.md",
+    "embed-library/ASM.md",
+    "embed-library/EXMC&FSMC.md",
+    "embed-library/rtthread/INIT_EXPORT.md",
+    "embed-library/PAHO-MQTT.md",
+    "embed-library/assets/Pasted image 20231010145007.png",
+    "embed-library/assets/Pasted image 20231010144952.png",
+    "embed-library/assets/Pasted image 20231010144629.png",
+    "embed-library/assets/Pasted image 20231010105804.png",
+    "embed-library/加密算法.md",
+    "API设计.md",
+    "embed-library/SFUD.md",
+    "embed-library/rtthread/NET.md",
+    "embed-library/assets/SM2/GB_T 32918.1-2016 信息安全技术  SM2椭圆曲线公钥密码算法  第1部分：总则.pdf",
+    "().md",
+    "Excalidraw/Drawing 2023-08-10 13.48.51.excalidraw.md",
+    "Excalidraw",
+    "embed-library/rtthread/rt_thread.md",
+    "embed-library/rtthread/rt_mem.md",
+    "assets/SM2/GB_T.md",
+    "assets/SM2",
+    "assets",
+    "GB_T.md",
+    "embed-library/assets/SM2/SM2密钥协商流程.pdf",
+    "embed-library/assets/SM2/GB_T 35276-2017 信息安全技术 SM2密码算法使用规范.pdf",
+    "embed-library/assets/SM2/GB_T 32918.5-2017 信息安全技术  SM2椭圆曲线公钥密码算法  第5部分：参数定义.pdf",
+    "embed-library/assets/SM2/GB_T 32918.4-2016 信息安全技术  SM2椭圆曲线公钥密码算法  第4部分：公钥加密算法.pdf",
+    "embed-library/assets/SM2/GB_T 32918.3-2016 信息安全技术  SM2椭圆曲线公钥密码算法  第3部分：密钥交换协议.pdf",
+    "embed-library/assets/SM2/GB_T 32918.2-2016 信息安全技术  SM2椭圆曲线公钥密码算法  第2部分：数字签名算法.pdf",
+    "embed-library/Untitled Diagram.svg.md",
+    "Excalidraw/Drawing 2023-07-28 13.49.38.excalidraw.md",
+    "Go-library/网络/Casbin.md",
+    "ubuntu-library/linux开发/Linux移植/Linux速通uboot，kernel，rootfs.md",
+    "ubuntu-library/shell/set.md",
+    "make-library/example/make-test/include/未命名.canvas"
+  ]
+}

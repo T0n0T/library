@@ -1,0 +1,9 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "title": "tag:#docker-compose",
+      "query": "tag:#docker-compose"
+    }
+  ]
+}
